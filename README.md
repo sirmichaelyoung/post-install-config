@@ -34,20 +34,22 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 Roles:
 - Admin Panel > Agents > Roles
-  - Add New Role, (Chief Admin)
-    - Enable all permissions (Tickets, Tasks, Knowledgebase)
+  - Add New Role (example)
+    - Chief Admin 
+      - Enable all permissions (Tickets, Tasks, Knowledgebase)
 
 <img width="630" alt="Screenshot 2024-04-04 at 12 49 36 AM" src="https://github.com/sirmichaelyoung/post-install-config/assets/163785883/2b0722ab-2dd4-4b07-87d5-ab3293055151">
 
 Departments:
 - Admin Panel > Agents > Departments
-  - Add New Department, (System Administrators)
+  - Add New Department (example)
+    - System Administrators 
  
 <img width="566" alt="Screenshot 2024-04-04 at 12 52 30 AM" src="https://github.com/sirmichaelyoung/post-install-config/assets/163785883/8c92062e-a1b8-4ab8-b333-3636e7f3e95f">
 
 Teams:
 - Admin Panel > Agents > Teams
-  - Create New Teams
+  - Create New Teams (example)
     - Level I Support
     - Level II Support
 
@@ -55,8 +57,8 @@ Teams:
 
 Agents (staff):
 - Admin Panel > Agents > Agents
-  -  Add New Agent
-    - Jazmine (example)
+  -  Add New Agent (example)
+    - Jazmine 
       - Add Username/Set Password
       - Define Access and Permissions
 
@@ -64,14 +66,14 @@ Agents (staff):
 
 Users (customers)
 - Agent Panel > Users > User Directory
-  - Add User
-   - Jacob (example)
+  - Add User (example)
+   - Jacob
 
 <img width="565" alt="Screenshot 2024-04-04 at 1 21 10 AM" src="https://github.com/sirmichaelyoung/post-install-config/assets/163785883/3e7cdf20-64ca-460b-9ec8-175955fe564a">
 
 Service-level agreement (SLA):
 - Admin Panel > Manage > SLA
-  - Add New SLA Plan
+  - Add New SLA Plan (example)
    - Sev-A (1hr, 24/7)
    - Sev-B (4hr, 24/7)
    - Sev-C (8hr, Monday-Friday)
@@ -80,7 +82,7 @@ Service-level agreement (SLA):
 
 Help Topics:
 - Admin Panel > Manage > Help Topics
-  - Add New Help Topic
+  - Add New Help Topic (example)
     - Business Critical
     - Personal Critical
     - Hardware Request
