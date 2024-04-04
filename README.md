@@ -3,7 +3,10 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
+
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+
+[osTicket: Prerequisites and Installation](https://github.com/sirmichaelyoung/osticket-prereqs) Continued
 
 
 <h2>Environments and Technologies Used</h2>
@@ -95,4 +98,6 @@ Enable Ticket Creation for Anyone:
   - Ensure "Registration Required" is not selected.
   - Ensure "Registration Method" is set to "Public"
  
-This concludes the Post-Install Configuration
+This concludes the Post-Install Configuration.
+
+Continue [osTicket: Ticket Lifecycle Examples](https://github.com/sirmichaelyoung/ticket-lifecycle)
